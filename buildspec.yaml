@@ -4,9 +4,6 @@ phases:
   build:
     commands:
       - echo Nothing to do yet
-  install:
-    runtime-versions:
-      nodejs: 8
 artifacts:
   files:
     - index.html
