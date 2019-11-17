@@ -1,2 +1,3 @@
-# my-portfolia
-This is my professional portfolio
+# Shubham Jain's portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
