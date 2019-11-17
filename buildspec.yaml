@@ -6,7 +6,7 @@ phases:
       - echo Nothing to do yet
   install:
     runtime-versions:
-      nodejs: 10
+      nodejs: 8
 artifacts:
   files:
     - index.html
